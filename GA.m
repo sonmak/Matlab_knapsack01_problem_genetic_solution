@@ -1,6 +1,4 @@
-%%
-%Sofiya Makarenka - 308912
-%Ada Kawala - 304135
+
 
 %%
 clc
